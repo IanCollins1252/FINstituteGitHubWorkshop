@@ -20,7 +20,7 @@ sudo dnf install R
 
 ##### RStudio:
 ###### Windows/Mac/Linux:
-https://docs.posit.co/ide/user/download.html\
+https://docs.posit.co/ide/user/download.html
 
 ###### Ubuntu/Debian (Latest as of 25/10/2026):
 sudo dpkg -i rstudio-2026.09.0-174-amd64.deb\
