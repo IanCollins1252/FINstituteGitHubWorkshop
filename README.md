@@ -13,7 +13,7 @@ https://cran.r-project.org/bin/macosx/
 
 ##### Ubuntu/Debian:
 ```bash
-sudo apt update\
+sudo apt update
 sudo apt-get install r-base
 ```
 ##### Fedora:
@@ -26,7 +26,7 @@ https://docs.posit.co/ide/user/download.html
 
 ##### Ubuntu/Debian (Latest as of 25/10/2026):
 ```bash
-sudo dpkg -i rstudio-2026.09.0-174-amd64.deb\
+sudo dpkg -i rstudio-2026.09.0-174-amd64.deb
 sudo apt-get install -f
 ```
 ##### Fedora:
