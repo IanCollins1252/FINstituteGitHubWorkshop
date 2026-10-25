@@ -34,6 +34,6 @@ sudo dnf install rstudio-2026.09.0-174-x86_64.rpm
 https://webterm.app/en/free-play
 
 ##### Git command practice:
-https://git-practice.com/
-https://gitlearner.com/playground/
+https://git-practice.com/<br>
+https://gitlearner.com/playground/<br>
 https://www.w3schools.com/git/git_exercises.asp
