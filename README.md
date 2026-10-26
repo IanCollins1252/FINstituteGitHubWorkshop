@@ -41,7 +41,7 @@ https://webterm.app/en/free-play
 https://git-practice.com/<br>
 https://gitlearner.com/playground/<br>
 https://www.w3schools.com/git/git_exercises.asp
-### Open Source Definition:
+#### Open Source Definition:
 https://opensource.org/education/what-is-open-source<br>
-### Revoke AI training permissions from GitHub repos:
+#### Revoke AI training permissions from GitHub repos:
 https://aiindigo.com/blog/github-opt-out-ai-training-private-repos
